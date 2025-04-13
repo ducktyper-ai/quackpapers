@@ -1,6 +1,6 @@
-### **DuckTyper - AI-Powered Coding Tutor**  
+### **QuackPapers - AI-Powered Coding Tutor**  
 
-**DuckTyper** is an AI-first, **code-driven learning tool** that transforms **arXiv papers and AI research** into **interactive programming tutorials**. It follows a **CLI-first approach**, allowing users to fetch AI papers, extract key concepts, and learn through hands-on coding exercises.  
+**QuackPapers** is an AI-first, **code-driven learning tool** that transforms **arXiv papers and AI research** into **interactive programming tutorials**. It follows a **CLI-first approach**, allowing users to fetch AI papers, extract key concepts, and learn through hands-on coding exercises.  
 
 🔹 **Core Features:**  
 - 📖 **Fetch AI research** from arXiv and generate structured tutorials.  
@@ -17,7 +17,7 @@ ducktyper list                   # List available tutorials
 ducktyper export transformers --colab  # Convert to a Google Colab notebook  
 ```
 
-🔹 **Why DuckTyper?**  
+🔹 **Why QuackPapers?**  
 **Built for engineers, researchers, and AI learners**, DuckTyper makes AI education **hands-on and practical** by focusing on **code-first explanations** instead of just theory.  
 
 💡 **Join the community, contribute, and accelerate AI learning with DuckTyper!** 🚀
